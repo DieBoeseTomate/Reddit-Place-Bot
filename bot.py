@@ -4,7 +4,7 @@ import time
 import requests
 import random
 
-DELAY = 5 # DELAY IN MINUTES
+DELAY = 5 # DELAY IN MINUTES BETWEEN 2 PIXEL PLACES
 
 COLORS = {
     'red': 2,
